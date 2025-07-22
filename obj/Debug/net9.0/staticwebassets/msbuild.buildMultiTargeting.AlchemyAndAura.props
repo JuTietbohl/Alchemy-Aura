@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AlchemyAndAura.props" />
+</Project>

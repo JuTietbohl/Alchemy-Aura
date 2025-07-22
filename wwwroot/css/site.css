@@ -1,0 +1,202 @@
+/* -- Cores e Variáveis (para facilitar a manutenção) -- */
+:root {
+  --bg-dark: #0d0d0d; /* Fundo principal: Preto Profundo */
+  --bg-medium: #1a1a1a; /* Fundo de cards/elementos: Cinza Escuro */
+  --text-light: #e0e0e0; /* Cor do texto principal */
+  --accent-gold: #FFD700; /* Acento ouro vibrante */
+  --accent-dark-purple: #4B0082; /* Acento roxo escuro (Indigo) */
+  --accent-light-purple: #8A2BE2; /* Acento roxo mais claro (Blue Violet) */
+  --shadow-color-gold: rgba(255, 215, 0, 0.4); /* Sombra/brilho dourado */
+  --shadow-color-purple: rgba(138, 43, 226, 0.4); /* Sombra/brilho roxo */
+}
+
+/* -- Estilos Gerais do Corpo -- */
+html {
+  font-size: 14px;
+  background-color: var(--bg-dark); /* Fundo escuro para a página */
+  color: var(--text-light); /* Cor do texto padrão */
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.25rem var(--accent-gold); /* Foco dourado */
+}
+
+/* Define a margem para o footer e o corpo, se necessário */
+.body-content {
+  padding-bottom: 3.5rem; /* Ajuste conforme a altura do seu footer */
+}
+
+/* -- Tipografia -- */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', serif; /* Fonte mística para títulos */
+  color: var(--accent-gold); /* Títulos em ouro */
+  text-shadow: 1px 1px 3px var(--shadow-color-gold); /* Pequena sombra dourada para efeito místico */
+}
+
+body {
+  font-family: 'Montserrat', sans-serif; /* Fonte legível para o corpo */
+  background-color: var(--bg-dark);
+  color: var(--text-light);
+}
+
+a {
+  color: var(--accent-light-purple); /* Links em roxo claro */
+}
+
+a:hover {
+  color: var(--accent-gold); /* Hover dourado nos links */
+  text-decoration: none;
+}
+
+/* -- Navbar (Barra de Navegação) -- */
+.navbar {
+  background-color: var(--bg-medium) !important; /* Fundo da navbar mais claro que o body */
+  border-bottom: 1px solid var(--accent-dark-purple); /* Borda inferior roxo escuro */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Sombra sutil */
+}
+
+.navbar .navbar-brand {
+  color: var(--accent-gold) !important; /* Marca/Nome da Loja em ouro */
+  font-family: 'Cinzel', serif;
+  font-size: 1.8rem;
+  text-shadow: 0 0 5px var(--shadow-color-gold); /* Brilho sutil dourado */
+}
+
+.navbar .nav-link {
+  color: var(--text-light) !important; /* Links da navegação em texto claro */
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+  color: var(--accent-light-purple) !important; /* Links da navegação em roxo claro no hover */
+  text-shadow: 0 0 5px var(--shadow-color-purple); /* Brilho roxo no hover */
+}
+
+/* -- Cards de Poções (Home/Index) -- */
+.card {
+  background-color: var(--bg-medium); /* Fundo do card mais claro */
+  border: 1px solid var(--accent-dark-purple); /* Borda roxa escura */
+  border-radius: 8px; /* Cantos arredondados */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Sombra para profundidade */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transição suave */
+  color: var(--text-light); /* Texto do card em claro */
+}
+
+.card:hover {
+  transform: translateY(-5px); /* Efeito de "subida" no hover */
+  box-shadow: 0 8px 25px var(--shadow-color-purple); /* Sombra/brilho roxo mais intenso no hover */
+}
+
+.card-img-top {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  /* Certifique-se de que suas imagens de poção tenham um bom fundo transparente ou escuro */
+}
+
+.card-title {
+  color: var(--accent-gold); /* Título da poção em ouro */
+  font-size: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.card-text {
+  color: var(--text-light); /* Descrição em texto claro */
+}
+
+.card-text strong {
+  color: var(--accent-light-purple); /* Preço em roxo claro */
+}
+
+/* -- Botões -- */
+.btn-primary {
+  background-color: var(--accent-gold); /* Botão primário (Add to Cart) em ouro */
+  border-color: var(--accent-gold);
+  color: var(--bg-dark); /* Texto do botão em cor escura para contraste */
+  font-weight: bold;
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #f0c23c; /* Um pouco mais claro no hover */
+  border-color: #f0c23c;
+  box-shadow: 0 0 10px var(--shadow-color-gold); /* Brilho dourado no hover */
+}
+
+.btn-danger {
+  background-color: #cc0000; /* Botão de remover (perigo) */
+  border-color: #990000;
+  color: white;
+}
+
+.btn-danger:hover {
+  background-color: #ff3333;
+  border-color: #cc0000;
+}
+
+.btn-success { /* Para o botão de Checkout */
+  background-color: var(--accent-light-purple); /* Botão de sucesso em roxo claro */
+  border-color: var(--accent-light-purple);
+  color: var(--bg-dark);
+  font-weight: bold;
+}
+
+.btn-success:hover {
+  background-color: #a366f0; /* Um tom de roxo mais claro no hover */
+  border-color: #a366f0;
+  box-shadow: 0 0 10px var(--shadow-color-purple); /* Brilho roxo no hover */
+}
+
+
+/* -- Tabela do Carrinho (Cart/Index) -- */
+.table {
+  color: var(--text-light); /* Texto da tabela em claro */
+  background-color: var(--bg-medium); /* Fundo da tabela */
+  border-radius: 8px;
+  overflow: hidden; /* Para garantir que o border-radius funcione */
+}
+
+.table thead th {
+  background-color: var(--accent-dark-purple); /* Cabeçalho da tabela roxo escuro */
+  color: var(--text-light); /* Texto do cabeçalho em claro */
+  border-bottom: 2px solid var(--accent-gold); /* Borda inferior dourada */
+}
+
+.table tbody tr {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Separador de linha sutil */
+}
+
+.table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.table tfoot td {
+  border-top: 2px solid var(--accent-gold); /* Borda superior do rodapé dourada */
+  color: var(--accent-gold); /* Texto do total em ouro */
+  font-weight: bold;
+}
+
+/* -- Footer -- */
+.footer {
+  background-color: var(--bg-medium);
+  border-top: 1px solid var(--accent-dark-purple); /* Borda superior roxa escura */
+  color: var(--text-light);
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* -- Campo de Quantidade -- */
+input[type="number"].form-control {
+  background-color: var(--bg-dark);
+  border: 1px solid var(--accent-dark-purple); /* Borda roxa escura */
+  color: var(--text-light);
+}
+
+input[type="number"].form-control:focus {
+  border-color: var(--accent-gold);
+  box-shadow: 0 0 0 0.25rem var(--shadow-color-gold);
+}

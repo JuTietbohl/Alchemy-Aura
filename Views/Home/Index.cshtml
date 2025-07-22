@@ -1,0 +1,41 @@
+﻿@using AlchemyAndAura.Models;
+@model List<Potion>
+
+@{
+    ViewData["Title"] = "Our Potions";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Alchemy & Aura!</h1>
+    <p>Find the perfect potion for your adventures.</p>
+</div>
+
+<div class="row">
+    @foreach (var potion in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card h-100">
+                <img src="@potion.ImageUrl" class="card-img-top" alt="@potion.Name" style="max-height: 200px; object-fit: contain;">
+                <div class="card-body">
+                    <h5 class="card-title">@potion.Name</h5>
+                    <p class="card-text">@potion.Description</p>
+                    <p class="card-text"><strong>Price: @potion.Price.ToString("C")</strong></p>
+                    <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                        <input type="hidden" name="potionId" value="@potion.Id" />
+                        <div class="form-group mb-2">
+                            <label for="quantity-@potion.Id">Quantity:</label>
+                            <input type="number" id="quantity-@potion.Id" name="quantity" class="form-control" value="1" min="1" style="width: 80px;">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Add to Cart</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        
+    </script>
+}
