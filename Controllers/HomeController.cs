@@ -21,7 +21,7 @@ namespace AlchemyAndAura.Controllers
                 new Potion { Id = 6, Name = "Poison Vial", Description = "A deadly concoction. Use with caution!", Price = 50.00m, ImageUrl = "/images/poison_vial.png" },
                 new Potion { Id = 7, Name = "Stink Bomb Potion", Description = "Emits a truly foul odor, useful for distractions.", Price = 8.00m, ImageUrl = "/images/stink_bomb_potion.png" },
                 new Potion { Id = 8, Name = "Invisibility Potion", Description = "Renders the drinker completely unseen for a short duration.", Price = 75.00m, ImageUrl = "/images/invisibility_potion.png" },
-                new Potion {Id = 9, Name = "Fire Resistance Potion", Description = "Resistance fire or a volcano.", Price = 80.25m, ImageUrl = "/images/fire_resistance_potion.png" },
+                new Potion {Id = 9,  Name = "Fire Resistance Potion", Description = "Resistance fire or a volcano.", Price = 80.25m, ImageUrl = "/images/fire_resistance_potion.png" },
                 new Potion {Id = 10, Name = "Night Vision Potion", Description = "See through the darkness.", Price = 18.65m, ImageUrl = "/images/night_vision_potion.png" },
                 new Potion {Id = 11, Name = "Gomu No Mi Potion", Description = "Stretch your bones.", Price = 102.00m, ImageUrl = "/images/gomu_no_mi_potion.jpeg" },
                 new Potion {Id = 12, Name = "Froggy Brew Potion", Description = "Turn into a frog by Bela.", Price = 27.98m, ImageUrl = "/images/froggy_brew_potion.png" },
