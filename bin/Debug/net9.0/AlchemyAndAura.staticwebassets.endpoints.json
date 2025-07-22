@@ -681,6 +681,1154 @@
       ]
     },
     {
+      "Route": "images/fire_resistance_potion.ndobd64j39.png",
+      "AssetFile": "images/fire_resistance_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3324402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1aqIyciGnASZErJstc6b4yQSnEH3MhI7ddUpucTNsIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:09:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ndobd64j39"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1aqIyciGnASZErJstc6b4yQSnEH3MhI7ddUpucTNsIQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/fire_resistance_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/fire_resistance_potion.png",
+      "AssetFile": "images/fire_resistance_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3324402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1aqIyciGnASZErJstc6b4yQSnEH3MhI7ddUpucTNsIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:09:10 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1aqIyciGnASZErJstc6b4yQSnEH3MhI7ddUpucTNsIQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/froggy_brew_potion.0064lm2pxm.png",
+      "AssetFile": "images/froggy_brew_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3541723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oFstNtkZF7aJUWiIed1dcYl6AN5x+YIRivPfOtHAT1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:20:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0064lm2pxm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oFstNtkZF7aJUWiIed1dcYl6AN5x+YIRivPfOtHAT1w="
+        },
+        {
+          "Name": "label",
+          "Value": "images/froggy_brew_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/froggy_brew_potion.png",
+      "AssetFile": "images/froggy_brew_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3541723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oFstNtkZF7aJUWiIed1dcYl6AN5x+YIRivPfOtHAT1w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:20:27 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oFstNtkZF7aJUWiIed1dcYl6AN5x+YIRivPfOtHAT1w="
+        }
+      ]
+    },
+    {
+      "Route": "images/gomu_no_mi_potion.jpeg",
+      "AssetFile": "images/gomu_no_mi_potion.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1940461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QgkIVFAepRzX0nyEW1MLainA2YP1hETEJdCJ4aThz9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:58:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QgkIVFAepRzX0nyEW1MLainA2YP1hETEJdCJ4aThz9I="
+        }
+      ]
+    },
+    {
+      "Route": "images/gomu_no_mi_potion.uwqm15rlbf.jpeg",
+      "AssetFile": "images/gomu_no_mi_potion.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1940461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QgkIVFAepRzX0nyEW1MLainA2YP1hETEJdCJ4aThz9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:58:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uwqm15rlbf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QgkIVFAepRzX0nyEW1MLainA2YP1hETEJdCJ4aThz9I="
+        },
+        {
+          "Name": "label",
+          "Value": "images/gomu_no_mi_potion.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "images/healing_potion.png",
+      "AssetFile": "images/healing_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4417063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BWDBWNj2HZXt168XpcJuvezWhxPc8jO6sYjkEmAjhN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:49:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BWDBWNj2HZXt168XpcJuvezWhxPc8jO6sYjkEmAjhN8="
+        }
+      ]
+    },
+    {
+      "Route": "images/healing_potion.zum5luvdti.png",
+      "AssetFile": "images/healing_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4417063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BWDBWNj2HZXt168XpcJuvezWhxPc8jO6sYjkEmAjhN8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:49:52 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zum5luvdti"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BWDBWNj2HZXt168XpcJuvezWhxPc8jO6sYjkEmAjhN8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/healing_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/invisibility_potion.png",
+      "AssetFile": "images/invisibility_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3077449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlIm2NHW3HNs8Qt9s19WYiSkzqTu5NptuIneqWhUZ7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:07:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlIm2NHW3HNs8Qt9s19WYiSkzqTu5NptuIneqWhUZ7g="
+        }
+      ]
+    },
+    {
+      "Route": "images/invisibility_potion.ukr7zq24kk.png",
+      "AssetFile": "images/invisibility_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3077449"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XlIm2NHW3HNs8Qt9s19WYiSkzqTu5NptuIneqWhUZ7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:07:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ukr7zq24kk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XlIm2NHW3HNs8Qt9s19WYiSkzqTu5NptuIneqWhUZ7g="
+        },
+        {
+          "Name": "label",
+          "Value": "images/invisibility_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/jump_boost_potion.48v585k4md.png",
+      "AssetFile": "images/jump_boost_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2812995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFbpIougCuK/yNig0GflPVaYVz1naY095Vdbv9ORer8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:16:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48v585k4md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFbpIougCuK/yNig0GflPVaYVz1naY095Vdbv9ORer8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/jump_boost_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/jump_boost_potion.png",
+      "AssetFile": "images/jump_boost_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2812995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rFbpIougCuK/yNig0GflPVaYVz1naY095Vdbv9ORer8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:16:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rFbpIougCuK/yNig0GflPVaYVz1naY095Vdbv9ORer8="
+        }
+      ]
+    },
+    {
+      "Route": "images/liritus_mindus_potion.09r32tusgy.png",
+      "AssetFile": "images/liritus_mindus_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3360970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tGIFGQv3ewwcS1wHnDlgvWmBna+BYVM/t6pNH+NJjSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 15:07:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09r32tusgy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tGIFGQv3ewwcS1wHnDlgvWmBna+BYVM/t6pNH+NJjSw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/liritus_mindus_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/liritus_mindus_potion.png",
+      "AssetFile": "images/liritus_mindus_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3360970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tGIFGQv3ewwcS1wHnDlgvWmBna+BYVM/t6pNH+NJjSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 15:07:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tGIFGQv3ewwcS1wHnDlgvWmBna+BYVM/t6pNH+NJjSw="
+        }
+      ]
+    },
+    {
+      "Route": "images/love_potion.6s9f01koce.png",
+      "AssetFile": "images/love_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4497951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ujwzN27zLruq7cGPWGSuVB0WY3zip5zJrnkURSUC1vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:47:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6s9f01koce"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ujwzN27zLruq7cGPWGSuVB0WY3zip5zJrnkURSUC1vs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/love_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/love_potion.png",
+      "AssetFile": "images/love_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4497951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ujwzN27zLruq7cGPWGSuVB0WY3zip5zJrnkURSUC1vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:47:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ujwzN27zLruq7cGPWGSuVB0WY3zip5zJrnkURSUC1vs="
+        }
+      ]
+    },
+    {
+      "Route": "images/mana_potion.72v9zueoij.png",
+      "AssetFile": "images/mana_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3360028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gd+xCtb9DYiK7vloHo5Yv7HxN5QCmuiJethUTir7N9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:51:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72v9zueoij"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gd+xCtb9DYiK7vloHo5Yv7HxN5QCmuiJethUTir7N9A="
+        },
+        {
+          "Name": "label",
+          "Value": "images/mana_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/mana_potion.png",
+      "AssetFile": "images/mana_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3360028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gd+xCtb9DYiK7vloHo5Yv7HxN5QCmuiJethUTir7N9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:51:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gd+xCtb9DYiK7vloHo5Yv7HxN5QCmuiJethUTir7N9A="
+        }
+      ]
+    },
+    {
+      "Route": "images/night_vision_potion.png",
+      "AssetFile": "images/night_vision_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3566747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k2eSgqDZ1pfs5fo62E1F1vXqCjeBFXOY2jfkabaHIn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:46:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k2eSgqDZ1pfs5fo62E1F1vXqCjeBFXOY2jfkabaHIn0="
+        }
+      ]
+    },
+    {
+      "Route": "images/night_vision_potion.xjm9aduxe9.png",
+      "AssetFile": "images/night_vision_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3566747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k2eSgqDZ1pfs5fo62E1F1vXqCjeBFXOY2jfkabaHIn0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:46:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xjm9aduxe9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k2eSgqDZ1pfs5fo62E1F1vXqCjeBFXOY2jfkabaHIn0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/night_vision_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/poison_vial.gdaife66xt.png",
+      "AssetFile": "images/poison_vial.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3167666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BEyXBFNRZ9N3AfY0BEvNaNFzqx+xPEhg+WcdAxxfXJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:03:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gdaife66xt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BEyXBFNRZ9N3AfY0BEvNaNFzqx+xPEhg+WcdAxxfXJw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/poison_vial.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/poison_vial.png",
+      "AssetFile": "images/poison_vial.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3167666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BEyXBFNRZ9N3AfY0BEvNaNFzqx+xPEhg+WcdAxxfXJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:03:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BEyXBFNRZ9N3AfY0BEvNaNFzqx+xPEhg+WcdAxxfXJw="
+        }
+      ]
+    },
+    {
+      "Route": "images/stink_bomb_potion.dl3dc89u06.png",
+      "AssetFile": "images/stink_bomb_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2349988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cQ+tC4jQct98nq0LaXtZeo+z0lEwrv93Cw56ofYsDQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:05:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dl3dc89u06"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cQ+tC4jQct98nq0LaXtZeo+z0lEwrv93Cw56ofYsDQg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/stink_bomb_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/stink_bomb_potion.png",
+      "AssetFile": "images/stink_bomb_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2349988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cQ+tC4jQct98nq0LaXtZeo+z0lEwrv93Cw56ofYsDQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 14:05:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cQ+tC4jQct98nq0LaXtZeo+z0lEwrv93Cw56ofYsDQg="
+        }
+      ]
+    },
+    {
+      "Route": "images/strength_potion.png",
+      "AssetFile": "images/strength_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4973920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"npsZZzZMLs73DQVApRmcr+mj+3nijorGM/chbYlg7ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:55:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-npsZZzZMLs73DQVApRmcr+mj+3nijorGM/chbYlg7ig="
+        }
+      ]
+    },
+    {
+      "Route": "images/strength_potion.qaa9snz5bz.png",
+      "AssetFile": "images/strength_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4973920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"npsZZzZMLs73DQVApRmcr+mj+3nijorGM/chbYlg7ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:55:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qaa9snz5bz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-npsZZzZMLs73DQVApRmcr+mj+3nijorGM/chbYlg7ig="
+        },
+        {
+          "Name": "label",
+          "Value": "images/strength_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/wisdom_potion.7mk0tf6osm.png",
+      "AssetFile": "images/wisdom_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4230691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6ELbXJZM1Jjd0JM8ZuLwIYOi9Q/28/l1o+hFvxJBWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7mk0tf6osm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6ELbXJZM1Jjd0JM8ZuLwIYOi9Q/28/l1o+hFvxJBWU="
+        },
+        {
+          "Name": "label",
+          "Value": "images/wisdom_potion.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/wisdom_potion.png",
+      "AssetFile": "images/wisdom_potion.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4230691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6ELbXJZM1Jjd0JM8ZuLwIYOi9Q/28/l1o+hFvxJBWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 13:58:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6ELbXJZM1Jjd0JM8ZuLwIYOi9Q/28/l1o+hFvxJBWU="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js.gz",
       "Selectors": [

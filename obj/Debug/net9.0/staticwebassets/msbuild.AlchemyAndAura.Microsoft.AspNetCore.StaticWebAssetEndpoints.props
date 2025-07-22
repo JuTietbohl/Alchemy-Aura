@@ -36,6 +36,174 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GvdGVQvyMNYF0cjqfDw9zd8N/r\u002BVlg3IMZcywnO\u002BV6o="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"843799"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022GvdGVQvyMNYF0cjqfDw9zd8N/r\u002BVlg3IMZcywnO\u002BV6o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 18 Jul 2025 19:15:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/fire_resistance_potion.ndobd64j39.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fire_resistance_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ndobd64j39"},{"Name":"integrity","Value":"sha256-1aqIyciGnASZErJstc6b4yQSnEH3MhI7ddUpucTNsIQ="},{"Name":"label","Value":"_content/AlchemyAndAura/images/fire_resistance_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3324402"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221aqIyciGnASZErJstc6b4yQSnEH3MhI7ddUpucTNsIQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:09:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/fire_resistance_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\fire_resistance_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1aqIyciGnASZErJstc6b4yQSnEH3MhI7ddUpucTNsIQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3324402"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00221aqIyciGnASZErJstc6b4yQSnEH3MhI7ddUpucTNsIQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:09:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/froggy_brew_potion.0064lm2pxm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\froggy_brew_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0064lm2pxm"},{"Name":"integrity","Value":"sha256-oFstNtkZF7aJUWiIed1dcYl6AN5x\u002BYIRivPfOtHAT1w="},{"Name":"label","Value":"_content/AlchemyAndAura/images/froggy_brew_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3541723"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oFstNtkZF7aJUWiIed1dcYl6AN5x\u002BYIRivPfOtHAT1w=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:20:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/froggy_brew_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\froggy_brew_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oFstNtkZF7aJUWiIed1dcYl6AN5x\u002BYIRivPfOtHAT1w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3541723"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oFstNtkZF7aJUWiIed1dcYl6AN5x\u002BYIRivPfOtHAT1w=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:20:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/gomu_no_mi_potion.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gomu_no_mi_potion.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QgkIVFAepRzX0nyEW1MLainA2YP1hETEJdCJ4aThz9I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1940461"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QgkIVFAepRzX0nyEW1MLainA2YP1hETEJdCJ4aThz9I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:58:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/gomu_no_mi_potion.uwqm15rlbf.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\gomu_no_mi_potion.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uwqm15rlbf"},{"Name":"integrity","Value":"sha256-QgkIVFAepRzX0nyEW1MLainA2YP1hETEJdCJ4aThz9I="},{"Name":"label","Value":"_content/AlchemyAndAura/images/gomu_no_mi_potion.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1940461"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QgkIVFAepRzX0nyEW1MLainA2YP1hETEJdCJ4aThz9I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:58:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/healing_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\healing_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BWDBWNj2HZXt168XpcJuvezWhxPc8jO6sYjkEmAjhN8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4417063"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BWDBWNj2HZXt168XpcJuvezWhxPc8jO6sYjkEmAjhN8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:49:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/healing_potion.zum5luvdti.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\healing_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zum5luvdti"},{"Name":"integrity","Value":"sha256-BWDBWNj2HZXt168XpcJuvezWhxPc8jO6sYjkEmAjhN8="},{"Name":"label","Value":"_content/AlchemyAndAura/images/healing_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4417063"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BWDBWNj2HZXt168XpcJuvezWhxPc8jO6sYjkEmAjhN8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:49:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/invisibility_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\invisibility_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XlIm2NHW3HNs8Qt9s19WYiSkzqTu5NptuIneqWhUZ7g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3077449"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XlIm2NHW3HNs8Qt9s19WYiSkzqTu5NptuIneqWhUZ7g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:07:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/invisibility_potion.ukr7zq24kk.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\invisibility_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ukr7zq24kk"},{"Name":"integrity","Value":"sha256-XlIm2NHW3HNs8Qt9s19WYiSkzqTu5NptuIneqWhUZ7g="},{"Name":"label","Value":"_content/AlchemyAndAura/images/invisibility_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3077449"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XlIm2NHW3HNs8Qt9s19WYiSkzqTu5NptuIneqWhUZ7g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:07:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/jump_boost_potion.48v585k4md.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\jump_boost_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"48v585k4md"},{"Name":"integrity","Value":"sha256-rFbpIougCuK/yNig0GflPVaYVz1naY095Vdbv9ORer8="},{"Name":"label","Value":"_content/AlchemyAndAura/images/jump_boost_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2812995"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rFbpIougCuK/yNig0GflPVaYVz1naY095Vdbv9ORer8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:16:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/jump_boost_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\jump_boost_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rFbpIougCuK/yNig0GflPVaYVz1naY095Vdbv9ORer8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2812995"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rFbpIougCuK/yNig0GflPVaYVz1naY095Vdbv9ORer8=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:16:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/liritus_mindus_potion.09r32tusgy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\liritus_mindus_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"09r32tusgy"},{"Name":"integrity","Value":"sha256-tGIFGQv3ewwcS1wHnDlgvWmBna\u002BBYVM/t6pNH\u002BNJjSw="},{"Name":"label","Value":"_content/AlchemyAndAura/images/liritus_mindus_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3360970"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tGIFGQv3ewwcS1wHnDlgvWmBna\u002BBYVM/t6pNH\u002BNJjSw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 15:07:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/liritus_mindus_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\liritus_mindus_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tGIFGQv3ewwcS1wHnDlgvWmBna\u002BBYVM/t6pNH\u002BNJjSw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3360970"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tGIFGQv3ewwcS1wHnDlgvWmBna\u002BBYVM/t6pNH\u002BNJjSw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 15:07:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/love_potion.6s9f01koce.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\love_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6s9f01koce"},{"Name":"integrity","Value":"sha256-ujwzN27zLruq7cGPWGSuVB0WY3zip5zJrnkURSUC1vs="},{"Name":"label","Value":"_content/AlchemyAndAura/images/love_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4497951"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ujwzN27zLruq7cGPWGSuVB0WY3zip5zJrnkURSUC1vs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:47:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/love_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\love_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ujwzN27zLruq7cGPWGSuVB0WY3zip5zJrnkURSUC1vs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4497951"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ujwzN27zLruq7cGPWGSuVB0WY3zip5zJrnkURSUC1vs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:47:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/mana_potion.72v9zueoij.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mana_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"72v9zueoij"},{"Name":"integrity","Value":"sha256-gd\u002BxCtb9DYiK7vloHo5Yv7HxN5QCmuiJethUTir7N9A="},{"Name":"label","Value":"_content/AlchemyAndAura/images/mana_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3360028"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gd\u002BxCtb9DYiK7vloHo5Yv7HxN5QCmuiJethUTir7N9A=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:51:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/mana_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\mana_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gd\u002BxCtb9DYiK7vloHo5Yv7HxN5QCmuiJethUTir7N9A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3360028"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gd\u002BxCtb9DYiK7vloHo5Yv7HxN5QCmuiJethUTir7N9A=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:51:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/night_vision_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\night_vision_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-k2eSgqDZ1pfs5fo62E1F1vXqCjeBFXOY2jfkabaHIn0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3566747"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022k2eSgqDZ1pfs5fo62E1F1vXqCjeBFXOY2jfkabaHIn0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:46:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/night_vision_potion.xjm9aduxe9.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\night_vision_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xjm9aduxe9"},{"Name":"integrity","Value":"sha256-k2eSgqDZ1pfs5fo62E1F1vXqCjeBFXOY2jfkabaHIn0="},{"Name":"label","Value":"_content/AlchemyAndAura/images/night_vision_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3566747"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022k2eSgqDZ1pfs5fo62E1F1vXqCjeBFXOY2jfkabaHIn0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:46:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/poison_vial.gdaife66xt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\poison_vial.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gdaife66xt"},{"Name":"integrity","Value":"sha256-BEyXBFNRZ9N3AfY0BEvNaNFzqx\u002BxPEhg\u002BWcdAxxfXJw="},{"Name":"label","Value":"_content/AlchemyAndAura/images/poison_vial.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3167666"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BEyXBFNRZ9N3AfY0BEvNaNFzqx\u002BxPEhg\u002BWcdAxxfXJw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:03:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/poison_vial.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\poison_vial.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BEyXBFNRZ9N3AfY0BEvNaNFzqx\u002BxPEhg\u002BWcdAxxfXJw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3167666"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BEyXBFNRZ9N3AfY0BEvNaNFzqx\u002BxPEhg\u002BWcdAxxfXJw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:03:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/stink_bomb_potion.dl3dc89u06.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stink_bomb_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dl3dc89u06"},{"Name":"integrity","Value":"sha256-cQ\u002BtC4jQct98nq0LaXtZeo\u002Bz0lEwrv93Cw56ofYsDQg="},{"Name":"label","Value":"_content/AlchemyAndAura/images/stink_bomb_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2349988"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cQ\u002BtC4jQct98nq0LaXtZeo\u002Bz0lEwrv93Cw56ofYsDQg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:05:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/stink_bomb_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\stink_bomb_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cQ\u002BtC4jQct98nq0LaXtZeo\u002Bz0lEwrv93Cw56ofYsDQg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2349988"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cQ\u002BtC4jQct98nq0LaXtZeo\u002Bz0lEwrv93Cw56ofYsDQg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 14:05:54 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/strength_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\strength_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-npsZZzZMLs73DQVApRmcr\u002Bmj\u002B3nijorGM/chbYlg7ig="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4973920"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022npsZZzZMLs73DQVApRmcr\u002Bmj\u002B3nijorGM/chbYlg7ig=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:55:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/strength_potion.qaa9snz5bz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\strength_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qaa9snz5bz"},{"Name":"integrity","Value":"sha256-npsZZzZMLs73DQVApRmcr\u002Bmj\u002B3nijorGM/chbYlg7ig="},{"Name":"label","Value":"_content/AlchemyAndAura/images/strength_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4973920"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022npsZZzZMLs73DQVApRmcr\u002Bmj\u002B3nijorGM/chbYlg7ig=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:55:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/wisdom_potion.7mk0tf6osm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\wisdom_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7mk0tf6osm"},{"Name":"integrity","Value":"sha256-X6ELbXJZM1Jjd0JM8ZuLwIYOi9Q/28/l1o\u002BhFvxJBWU="},{"Name":"label","Value":"_content/AlchemyAndAura/images/wisdom_potion.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4230691"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022X6ELbXJZM1Jjd0JM8ZuLwIYOi9Q/28/l1o\u002BhFvxJBWU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:58:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/images/wisdom_potion.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\wisdom_potion.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X6ELbXJZM1Jjd0JM8ZuLwIYOi9Q/28/l1o\u002BhFvxJBWU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4230691"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022X6ELbXJZM1Jjd0JM8ZuLwIYOi9Q/28/l1o\u002BhFvxJBWU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Jul 2025 13:58:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/AlchemyAndAura/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

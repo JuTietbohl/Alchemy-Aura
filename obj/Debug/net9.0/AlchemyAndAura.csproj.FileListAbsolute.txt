@@ -94,3 +94,4 @@ C:\Users\Julia_Tietbohl\RiderProjects\WebApplication1\AlchemyAndAura\obj\Debug\n
 C:\Users\Julia_Tietbohl\RiderProjects\WebApplication1\AlchemyAndAura\obj\Debug\net9.0\AlchemyAndAura.genruntimeconfig.cache
 C:\Users\Julia_Tietbohl\RiderProjects\WebApplication1\AlchemyAndAura\obj\Debug\net9.0\ref\AlchemyAndAura.dll
 C:\Users\Julia_Tietbohl\RiderProjects\WebApplication1\AlchemyAndAura\obj\Debug\net9.0\compressed\6o21tygf3f-gmr546own7.gz
+C:\Users\Julia_Tietbohl\RiderProjects\WebApplication1\AlchemyAndAura\obj\Debug\net9.0\AlchemyAndAura.sourcelink.json

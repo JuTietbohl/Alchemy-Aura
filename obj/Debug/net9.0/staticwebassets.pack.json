@@ -13,6 +13,62 @@
       "PackagePath": "staticwebassets\\iconAA.png"
     },
     {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\fire_resistance_potion.png",
+      "PackagePath": "staticwebassets\\images\\fire_resistance_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\froggy_brew_potion.png",
+      "PackagePath": "staticwebassets\\images\\froggy_brew_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\gomu_no_mi_potion.jpeg",
+      "PackagePath": "staticwebassets\\images\\gomu_no_mi_potion.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\healing_potion.png",
+      "PackagePath": "staticwebassets\\images\\healing_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\invisibility_potion.png",
+      "PackagePath": "staticwebassets\\images\\invisibility_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\jump_boost_potion.png",
+      "PackagePath": "staticwebassets\\images\\jump_boost_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\liritus_mindus_potion.png",
+      "PackagePath": "staticwebassets\\images\\liritus_mindus_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\love_potion.png",
+      "PackagePath": "staticwebassets\\images\\love_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\mana_potion.png",
+      "PackagePath": "staticwebassets\\images\\mana_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\night_vision_potion.png",
+      "PackagePath": "staticwebassets\\images\\night_vision_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\poison_vial.png",
+      "PackagePath": "staticwebassets\\images\\poison_vial.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\stink_bomb_potion.png",
+      "PackagePath": "staticwebassets\\images\\stink_bomb_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\strength_potion.png",
+      "PackagePath": "staticwebassets\\images\\strength_potion.png"
+    },
+    {
+      "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\images\\wisdom_potion.png",
+      "PackagePath": "staticwebassets\\images\\wisdom_potion.png"
+    },
+    {
       "Id": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
