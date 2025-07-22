@@ -8,26 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Julia_Tietbohl\\.nuget\\packages\\": {}
+    "C:\\Users\\julia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\AlchemyAndAura.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\Alchemy-Aura\\Alchemy-Aura\\AlchemyAndAura.csproj",
       "projectName": "AlchemyAndAura",
-      "projectPath": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\AlchemyAndAura.csproj",
-      "packagesPath": "C:\\Users\\Julia_Tietbohl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julia_Tietbohl\\RiderProjects\\WebApplication1\\AlchemyAndAura\\obj\\",
+      "projectPath": "C:\\Users\\julia\\Alchemy-Aura\\Alchemy-Aura\\AlchemyAndAura.csproj",
+      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\julia\\Alchemy-Aura\\Alchemy-Aura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Julia_Tietbohl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -70,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

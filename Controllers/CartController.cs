@@ -94,10 +94,13 @@ namespace AlchemyAndAura.Controllers
                 new Potion { Id = 8, Name = "Invisibility Potion", Description = "Renders the drinker completely unseen for a short duration.", Price = 75.00m, ImageUrl = "/images/invisibility_potion.png" },
                 new Potion {Id = 9, Name = "Fire Resistance Potion", Description = "Resistance fire or a volcano.", Price = 80.25m, ImageUrl = "/images/fire_resistance_potion.png" },
                 new Potion {Id = 10, Name = "Night Vision Potion", Description = "See through the darkness.", Price = 27.98m, ImageUrl = "/images/night_vision_potion.png" },
-                new Potion {Id = 11, Name = "Gomu No Mi Potion", Description = "Stretch your bones.", Price = 27.98m, ImageUrl = "/images/gomu_no_mi_potion.jpeg" },
+                new Potion {Id = 11, Name = "Gomu No Mi Potion", Description = "Stretch your bones by Pedrita.", Price = 27.98m, ImageUrl = "/images/gomu_no_mi_potion.jpeg" },
                 new Potion {Id = 12, Name = "Froggy Brew Potion", Description = "Turn into a frog by Bela.", Price = 27.98m, ImageUrl = "/images/froggy_brew_potion.png" },
                 new Potion {Id = 13, Name = "Jump Boost", Description = "Jump like a rabbit.", Price = 27.98m, ImageUrl = "/images/jump_boost_potion.png" },
-                new Potion {Id = 14, Name = "Liritus Mindus", Description = "Read everyone's mind by Gotort.", Price = 27.98m, ImageUrl = "/images/liritus_mindus_potion.png" }
+                new Potion {Id = 14, Name = "Liritus Mindus", Description = "Read everyone's mind by Gotort.", Price = 27.98m, ImageUrl = "/images/liritus_mindus_potion.png" },
+                new Potion { Id = 15,Name = "Teleport Potion", Description = "by Lívia", Price = 375.98m, ImageUrl = "/images/teleport_potion.png" }
+               
+                
             }.FirstOrDefault(p => p.Id == id);
         }
     }
