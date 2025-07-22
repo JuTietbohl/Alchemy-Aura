@@ -1,4 +1,3 @@
-// Program.cs
 using Microsoft.AspNetCore.Builder; // Certifique-se de que este using existe
 using Microsoft.Extensions.DependencyInjection; // Certifique-se de que este using existe
 using Microsoft.Extensions.Hosting; // Certifique-se de que este using existe

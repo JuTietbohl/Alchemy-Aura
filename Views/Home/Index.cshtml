@@ -19,7 +19,7 @@
                 <div class="card-body">
                     <h5 class="card-title">@potion.Name</h5>
                     <p class="card-text">@potion.Description</p>
-                    <p class="card-text"><strong>Price: @potion.Price.ToString("C")</strong></p>
+                    <p class="card-text"><strong>Price: @potion.Price.ToString("C")</strong></p> <!-- .ToString("C") mostra conforme localização (ex: Brasil = R$); -->
                     <form asp-controller="Cart" asp-action="AddToCart" method="post">
                         <input type="hidden" name="potionId" value="@potion.Id" />
                         <div class="form-group mb-2">
