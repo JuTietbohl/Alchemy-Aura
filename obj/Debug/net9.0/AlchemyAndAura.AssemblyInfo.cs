@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlchemyAndAura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0846d5126b4d49e494eb92d1dc0cbc5c4617306e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda830baf4323f9f46aae274bcec296cbdb842ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlchemyAndAura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlchemyAndAura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
