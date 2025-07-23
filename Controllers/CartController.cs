@@ -18,7 +18,7 @@ namespace AlchemyAndAura.Controllers
             {
                 return new List<CartItem>();
             }
-            // Você pode adicionar opções de serialização se precisar de mais controle
+            //pode adicionar opções de serialização se precisar de mais controle
             return JsonSerializer.Deserialize<List<CartItem>>(cartJson); 
         }
 
@@ -78,7 +78,7 @@ namespace AlchemyAndAura.Controllers
             return RedirectToAction("Index");
         }
         
-        // Exemplo de poção mockada para testes 
+        //poção mockada para testes 
         private Potion GetMockPotion(int id)
         {
             

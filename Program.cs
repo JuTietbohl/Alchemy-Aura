@@ -5,8 +5,8 @@ using System; // Para TimeSpan
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. Adicionar serviços ao contêiner.
-// Este bloco 'builder.Services' é para registrar serviços que o app usará.
+//Adicionar serviços ao contêiner.
+//Este bloco 'builder.Services' é para registrar serviços que o app usará.
 builder.Services.AddControllersWithViews();
 
 // Adicione isso para usar a sessão
@@ -19,8 +19,8 @@ builder.Services.AddSession(options =>
 
 var app = builder.Build();
 
-// 2. Configurar o pipeline de requisições HTTP.
-// Este bloco 'app.Use' é para definir a ordem em que os middlewares processam as requisições.
+//Configurar o pipeline de requisições HTTP.
+//Este bloco 'app.Use' é para definir a ordem em que os middlewares processam as requisições.
 
 if (!app.Environment.IsDevelopment())
 {
