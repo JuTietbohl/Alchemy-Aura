@@ -21,7 +21,6 @@ var app = builder.Build();
 
 //Configurar o pipeline de requisições HTTP.
 //'app.Use' é para definir a ordem em que os middlewares processam as requisições.
-
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
