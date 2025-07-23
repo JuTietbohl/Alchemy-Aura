@@ -28,7 +28,7 @@ namespace AlchemyAndAura.Controllers
                 new Potion { Id = 13,Name = "Jump Boost", Description = "Jump like a rabbit.", Price = 23.48m, ImageUrl = "/images/jump_boost_potion.png" },
                 new Potion { Id = 14,Name = "Liritus Mindus", Description = "Read everyone's mind by Gotort.", Price = 174.75m, ImageUrl = "/images/liritus_mindus_potion.png" },
                 new Potion { Id = 15,Name = "Teleport Potion", Description = "Go wherever you want in a magic step by Lívia", Price = 375.98m, ImageUrl = "/images/teleport_potion.png" }
-                //Morph potion
+               
 
             };
             return View(potions);
